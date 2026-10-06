@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
@@ -18,6 +19,7 @@
 | [0027-remove-element](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0680-valid-palindrome-ii](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/codewithsufi-cmd/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Sorting
@@ -54,4 +56,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0075-sort-colors) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
