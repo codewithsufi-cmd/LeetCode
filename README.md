@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0075-sort-colors) |
@@ -43,6 +44,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0217-contains-duplicate) |
 ## Quicksort
 |  |
