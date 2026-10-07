@@ -13,6 +13,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0283-move-zeroes) |
+| [0877-stone-game](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/codewithsufi-cmd/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
@@ -75,4 +76,24 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/codewithsufi-cmd/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Math
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0877-stone-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
