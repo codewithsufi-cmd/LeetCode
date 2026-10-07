@@ -79,6 +79,7 @@
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0231-power-of-two) |
 | [0877-stone-game](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
@@ -96,4 +97,12 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0877-stone-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
