@@ -6,14 +6,14 @@ class Solution {
         int slow=0,
             fast=0;
 
-        while(true){
+        do{
             slow=nums[slow];
             fast=nums[nums[fast]];
 
             if(slow==fast){
                 break;
             }
-        }
+        } while(slow!=fast);
 
         int n1=0,
             n2=slow;
