@@ -13,6 +13,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0877-stone-game](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/codewithsufi-cmd/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -32,6 +33,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0680-valid-palindrome-ii) |
@@ -89,6 +91,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/codewithsufi-cmd/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Math
 |  |
@@ -116,6 +119,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
 |  |
 | ------- |
@@ -126,4 +130,9 @@
 | [0141-linked-list-cycle](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
