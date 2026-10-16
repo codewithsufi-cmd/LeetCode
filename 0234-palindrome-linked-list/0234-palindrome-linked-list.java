@@ -4,29 +4,45 @@
  *     int val;
  *     ListNode next;
  *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val) { this.val = val; }https://leetcode.com/_next/static/images/dark-pending-f313d6fe32951fb6b4d48ad3ee4f3821.gif$0
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
 class Solution {
-    public boolean isPalindrome(ListNode head) {
-        ArrayList<Integer> list = new ArrayList<>();
+    public ListNode rev(ListNode curr){
+        ListNode prev=null;
+        ListNode temp=curr;
 
-        while(head!=null){
-            list.add(head.val);
-            head=head.next;
+        while(curr!=null){
+            curr=curr.next;
+            temp.next=prev;
+            prev=temp;
+            temp=curr;
+        }
+        return prev;
+    }
+    public boolean isPalindrome(ListNode head) {
+        ListNode slow=head,
+            fast=head;
+
+        while(fast!=null && fast.next!=null){
+            slow=slow.next;
+            fast=fast.next.next;
         }
 
-        int i=0,
-        j=list.size()-1;
+        ListNode n1=head;
+        ListNode n2=rev(slow);
 
-        while(i<j){
-            if(list.get(i)!=list.get(j)){
+        while(n1!=null && n2!=null){
+            if(n1.val!=n2.val){
                 return false;
             }
-            i++;  
-            j--;
+            n1=n1.next;
+            n2=n2.next;
         }
+
         return true;
+
+
     }
 }
