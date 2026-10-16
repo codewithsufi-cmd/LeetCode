@@ -16,6 +16,7 @@
 | [0287-find-the-duplicate-number](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0877-stone-game](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1929-concatenation-of-array](https://github.com/codewithsufi-cmd/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/codewithsufi-cmd/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
 |  |
@@ -144,4 +145,8 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/codewithsufi-cmd/LeetCode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
