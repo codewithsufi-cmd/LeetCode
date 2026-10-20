@@ -23,7 +23,7 @@ class Solution {
     }
     public int pairSum(ListNode head) {
         ListNode slow=head,
-                fast=head.next;
+                fast=head;
 
         if(slow.next.next==null){
             return slow.val+slow.next.val;
@@ -34,7 +34,7 @@ class Solution {
             fast=fast.next.next;
         }
 
-        ListNode ptr2=rev(slow.next),
+        ListNode ptr2=rev(slow),
                 ptr1=head;
 
         int max=(ptr1.val)+(ptr2.val);
