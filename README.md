@@ -17,6 +17,7 @@
 | [0485-max-consecutive-ones](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0877-stone-game](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/codewithsufi-cmd/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1929-concatenation-of-array](https://github.com/codewithsufi-cmd/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/codewithsufi-cmd/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
@@ -106,6 +107,7 @@
 | [0202-happy-number](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0231-power-of-two) |
 | [0877-stone-game](https://github.com/codewithsufi-cmd/LeetCode/tree/master/0877-stone-game) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/codewithsufi-cmd/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
