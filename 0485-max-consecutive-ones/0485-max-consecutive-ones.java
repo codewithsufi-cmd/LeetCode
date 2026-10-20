@@ -3,7 +3,7 @@ class Solution {
         
         int i=0,
             count=0,
-            Max=0;
+            Max=Integer.MIN_VALUE;
 
         while(i<nums.length){
             if(nums[i]==0){
