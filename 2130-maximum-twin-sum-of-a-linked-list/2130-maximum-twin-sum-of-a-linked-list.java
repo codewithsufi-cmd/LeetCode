@@ -37,16 +37,15 @@ class Solution {
         ListNode ptr2=rev(slow),
                 ptr1=head;
 
-        int max=(ptr1.val)+(ptr2.val);
+        int maximum=Integer.MIN_VALUE;
 
         while(ptr1!=null && ptr2!=null){
-            if((ptr1.val+ptr2.val)>max){
-                max=ptr1.val+ptr2.val;
-            }
+            int sum = ptr1.val+ptr2.val;
+            maximum=Integer.max(maximum,sum);
             ptr1=ptr1.next;
             ptr2=ptr2.next;
         }
 
-        return max;
+        return maximum;
     }
 }
